@@ -1,2 +1,2 @@
-# website-moderno
-Website com visual moderno para o Projeto Pindorama
+# Website moderno Projeto Pindorama
+Desenvolvido usando novas tecnologias com um visual moderno e responsivo
